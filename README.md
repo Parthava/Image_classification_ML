@@ -38,7 +38,7 @@ The flowers are predicted by training both the train and train_aug dataset.<br/>
 The augmented dataset is found to have high accuracy than the train dataset.<br/>
 <br/>
 [6] GUI:<br/> 
-The GUI is developed using the GUI toolkit TKinter. <br/>
+The GUI is developed using the GUI toolkit TKinter. <br/><br/>
 
 [7] Classification in real-time: <br/> 
 In doing the real-time classification of flowers, we have used the webcam and the mobile cam.<br/>
